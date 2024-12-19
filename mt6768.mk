@@ -402,7 +402,7 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/mediatek \
     hardware/xiaomi \
     hardware/mediatek/libmtkperf_client \
-    device/xiaomi/mt6768-common/power-libperfmgr \
+    hardware/xiaomi/aidl/power-libperfmgr \
     vendor/fingerprint/opensource/interfaces \
     $(LOCAL_PATH)
 
